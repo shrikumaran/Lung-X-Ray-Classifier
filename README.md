@@ -6,7 +6,8 @@ https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 Trained the fully connected layers of a VGG19 model while freezing the Convulotional layers.
 Used PyTorch to train the model.
-Trained the model for 100 epochs on google colaboratory for 100 epochs and got a validation set accuracy of 85.5%
-Developing a custom model
+Trained the model for 100 epochs on google colaboratory for 100 epochs and got a validation set accuracy of 85.5%.
+
+Currently developing a custom model
 
 
