@@ -8,6 +8,5 @@ Trained the fully connected layers of a VGG19 model while freezing the Convuloti
 Used PyTorch to train the model.
 Trained the model for 100 epochs on google colaboratory for 100 epochs and got a validation set accuracy of 85.5%.
 
-Currently developing a custom model
-
+Developed a CNN model which had a max validation set accuracy of 88.9%.
 
